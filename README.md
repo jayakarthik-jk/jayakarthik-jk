@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @jayakarthik @ jk
-- 👀 I’m am a Software Devolopment
+- 👋 Hi, I’m Jayakarthik
 - 🌱 I love learning ...
 - 📫 You can Reach me on any Social Media @jayakarthik.jk
